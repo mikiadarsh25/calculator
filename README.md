@@ -12,7 +12,7 @@ This is a simple calculator website created using HTML, CSS, and JavaScript.
 
 You can access the calculator website by clicking the button below:
 
-[![Access Calculator]]([https://mikiadarsh25.github.io/calculator/])
+[![Access Calculator]](https://mikiadarsh25.github.io/calculator/)
 
 
 
